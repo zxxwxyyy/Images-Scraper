@@ -8,4 +8,6 @@
 
 1. Clone the repository or download the script files:
 
-`git clone https://github.com/zxxwxyyy/Images-Scraper.git`
+```sh
+git clone https://github.com/zxxwxyyy/Images-Scraper.git
+```
